@@ -1,0 +1,65 @@
+(np.int64(0),
+    math_score  reading_score  writing_score  gender_male  \
+ 0          72             72             74        False   
+ 1          69             90             88        False   
+ 2          90             95             93        False   
+ 3          47             57             44         True   
+ 4          76             78             75         True   
+ 
+    race/ethnicity_group B  race/ethnicity_group C  race/ethnicity_group D  \
+ 0                    True                   False                   False   
+ 1                   False                    True                   False   
+ 2                    True                   False                   False   
+ 3                   False                   False                   False   
+ 4                   False                    True                   False   
+ 
+    race/ethnicity_group E  parental_level_of_education_bachelor's degree  \
+ 0                   False                                           True   
+ 1                   False                                          False   
+ 2                   False                                          False   
+ 3                   False                                          False   
+ 4                   False                                          False   
+ 
+    parental_level_of_education_high school  \
+ 0                                    False   
+ 1                                    False   
+ 2                                    False   
+ 3                                    False   
+ 4                                    False   
+ 
+    parental_level_of_education_master's degree  \
+ 0                                        False   
+ 1                                        False   
+ 2                                         True   
+ 3                                        False   
+ 4                                        False   
+ 
+    parental_level_of_education_some college  \
+ 0                                     False   
+ 1                                      True   
+ 2                                     False   
+ 3                                     False   
+ 4                                      True   
+ 
+    parental_level_of_education_some high school  lunch_standard  \
+ 0                                         False            True   
+ 1                                         False            True   
+ 2                                         False            True   
+ 3                                         False           False   
+ 4                                         False            True   
+ 
+    test_preparation_course_none  
+ 0                          True  
+ 1                         False  
+ 2                          True  
+ 3                          True  
+ 4                          True  ,
+        math_score  reading_score  writing_score
+ count  1000.00000    1000.000000    1000.000000
+ mean     66.08900      69.169000      68.054000
+ std      15.16308      14.600192      15.195657
+ min       0.00000      17.000000      10.000000
+ 25%      57.00000      59.000000      57.750000
+ 50%      66.00000      70.000000      69.000000
+ 75%      77.00000      79.000000      79.000000
+ max     100.00000     100.000000     100.000000)
